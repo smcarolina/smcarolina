@@ -1,6 +1,6 @@
 ## Olá!
-- 👩‍💻 Eu sou a Carolina Souza, desenvolvedora Front End
-- 🌱 Estou estudando React
+- 👩‍💻 Eu sou a Carol, desenvolvedora Front End
+- 🌱 Estudo desenvolvimento Web com React
 - 👩 Ela/dela
 - 📫 Você pode entrar em contato comigo por smcarolina42@gmail.com
 
